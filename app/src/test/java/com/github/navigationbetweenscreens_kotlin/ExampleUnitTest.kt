@@ -1,4 +1,4 @@
-package com.example.navigationbetweenscreens_kotlin
+package com.github.navigationbetweenscreens_kotlin
 
 import org.junit.Test
 

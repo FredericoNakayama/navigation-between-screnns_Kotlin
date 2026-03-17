@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.navigationbetweenscreens_kotlin"
+    namespace = "com.github.navigationbetweenscreens_kotlin"
     compileSdk = 35
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package com.example.navigationbetweenscreens_kotlin.screens
+package com.github.FredericoNakayama.navigationbetweenscreens_kotlin.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

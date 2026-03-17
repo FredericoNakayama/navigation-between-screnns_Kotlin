@@ -1,4 +1,4 @@
-package com.example.navigationbetweenscreens_kotlin.ui.theme
+package com.github.FredericoNakayama.navigationbetweenscreens_kotlin.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

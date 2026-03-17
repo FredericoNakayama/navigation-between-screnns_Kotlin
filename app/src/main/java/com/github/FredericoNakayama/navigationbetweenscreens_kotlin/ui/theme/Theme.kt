@@ -1,6 +1,5 @@
-package com.example.navigationbetweenscreens_kotlin.ui.theme
+package com.github.FredericoNakayama.navigationbetweenscreens_kotlin.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
